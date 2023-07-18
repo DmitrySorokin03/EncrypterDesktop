@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "EncrypterBotDesktop/1.0.0": {
+        "runtime": {
+          "EncrypterBotDesktop.dll": {}
+        },
+        "resources": {
+          "ru-RU/EncrypterBotDesktop.resources.dll": {
+            "locale": "ru-RU"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EncrypterBotDesktop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
